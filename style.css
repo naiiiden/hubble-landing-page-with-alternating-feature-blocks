@@ -55,6 +55,9 @@ main p {
     gap: 1.5rem;
     padding: 2.5rem;
     margin-bottom: 4rem;
+    width: 90%;
+    margin: auto;
+    background-color: #fff;
 }
 
 .desktoprowreverse1 {
@@ -64,6 +67,9 @@ main p {
     gap: 1.5rem;
     padding: 1.96rem;
     margin-bottom: 4rem;
+    width: 90%;
+    margin: auto;
+    background-color: #fff;
 }
 
 .desktoprow3 {
@@ -73,8 +79,14 @@ main p {
     gap: 1.5rem;
     padding: 2rem;
     margin-bottom: 5rem;
+    width: 90%;
+    margin: auto;
+    background-color: #fff;
 }
 
+.background2 {
+    background-color:ivory;
+}
 
 
 section p {
