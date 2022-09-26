@@ -35,13 +35,13 @@ header img {
     width: 35%;
 }
 
-main {
+.main {
     display: flex;
     flex-direction: column;
     gap: 2rem;
 }
 
-main p {
+.main p {
     line-height: 1.5;
     color:hsl(192, 100%, 9%);
 }
@@ -229,7 +229,7 @@ a:hover {
         margin-bottom: 5rem;
     }
 
-    .desktoprow2 main {
+    .desktoprow2 .main {
         width: 35%;
         text-align: start;
     }
@@ -246,7 +246,7 @@ a:hover {
         margin-bottom: 5rem;
     }
 
-    .desktoprowreverse1 main {
+    .desktoprowreverse1 .main {
         width: 37%;
         text-align: start;
     }
@@ -262,7 +262,7 @@ a:hover {
         justify-content: space-evenly;
     }
     
-    .desktoprow3 main {
+    .desktoprow3 .main {
         width: 35%;
         text-align: start;
     }
